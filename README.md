@@ -8,4 +8,4 @@
 
  ![](https://komarev.com/ghpvc/?username=dustinsduskydarling&color=ff69b4&style=for-the-badge)
 
- ${\textsf{\color{#9c0b19}wip blehh plz b some other guy.}}$
+ ${\textsf{\color{#9c0b19}wip blehh plz b vry vry patient.}}$
