@@ -22,10 +22,11 @@
 <h5 align="center"
 
 
+
 <h2>${\textsf{\color{#ffbbe6}Zhort / Quick Introduction ! ! !}}$</h2>
 
  <img src="https://files.catbox.moe/oskhsg.png">
- <img src="https://files.catbox.moe/fr7y70.png">
+  <img src="https://files.catbox.moe/59eun1.png">
 <p align="center">
  <img src="https://files.catbox.moe/jwaqe8.png">
 <h2>${\textsf{\color{#FF0000}uhh linkz down here alzo wipz !}}$</h2>
@@ -39,3 +40,4 @@
    <img src="https://files.catbox.moe/oskhsg.png">
     <img src="https://files.catbox.moe/uw4n5c.png">
 <img src="https://files.catbox.moe/fr7y70.png">
+ <img src="https://files.catbox.moe/oskhsg.png">
